@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akaoriax-sys.github.io/gamefinder/sitemap.xml

@@ -1,0 +1,1119 @@
+[
+  {
+    "id": 1,
+    "slug": "frostpunk",
+    "title": "Frostpunk",
+    "platform": "PC",
+    "genres": [
+      "街づくり",
+      "サバイバル",
+      "ストラテジー"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "極寒都市で資源・暖房・社会制度を管理するシティビルダー。",
+    "bestFor": "厳しい資源管理と判断を楽しみたい人",
+    "discoveryScore": 8.5,
+    "affiliateKey": "frostpunk",
+    "image": "",
+    "guide": {
+      "beginner": true,
+      "mods": false,
+      "dlc": true,
+      "similar": true
+    },
+    "guideKeywords": [
+      "初心者向け",
+      "序盤攻略",
+      "高難度",
+      "街づくり",
+      "DLC",
+      "Endless Mode"
+    ]
+  },
+  {
+    "id": 2,
+    "slug": "cities-skylines",
+    "title": "Cities: Skylines",
+    "platform": "PC",
+    "genres": [
+      "街づくり",
+      "シミュレーション"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "道路や交通、公共サービスまで設計できる都市開発シミュレーション。",
+    "bestFor": "自由度の高い街づくりをしたい人",
+    "discoveryScore": 9.4,
+    "affiliateKey": "cities-skylines",
+    "image": "",
+    "guide": {
+      "beginner": true,
+      "mods": true,
+      "dlc": true,
+      "similar": true
+    },
+    "guideKeywords": [
+      "初心者向け",
+      "序盤攻略",
+      "MOD",
+      "街づくり",
+      "交通",
+      "経営"
+    ]
+  },
+  {
+    "id": 3,
+    "slug": "raft",
+    "title": "Raft",
+    "platform": "PC",
+    "genres": [
+      "サバイバル",
+      "クラフト",
+      "協力"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "海上のいかだを拡張しながら探索するサバイバルクラフト。",
+    "bestFor": "友達とクラフトや探索を楽しみたい人",
+    "discoveryScore": 8.1,
+    "affiliateKey": "raft",
+    "image": "",
+    "guide": {
+      "beginner": true,
+      "mods": true,
+      "dlc": false,
+      "similar": true
+    },
+    "guideKeywords": [
+      "初心者向け",
+      "序盤攻略",
+      "MOD",
+      "協力",
+      "サバイバル",
+      "クラフト"
+    ]
+  },
+  {
+    "id": 4,
+    "slug": "satisfactory",
+    "title": "Satisfactory",
+    "platform": "PC",
+    "genres": [
+      "自動化",
+      "建築",
+      "探索"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "惑星上に巨大な自動化工場を構築する工場建設ゲーム。",
+    "bestFor": "自動化や効率化が好きな人",
+    "discoveryScore": 8.8,
+    "affiliateKey": "satisfactory",
+    "image": "",
+    "guide": {
+      "beginner": true,
+      "mods": true,
+      "dlc": false,
+      "similar": true
+    },
+    "guideKeywords": [
+      "初心者向け",
+      "序盤攻略",
+      "MOD",
+      "工場",
+      "自動化",
+      "協力"
+    ]
+  },
+  {
+    "id": 5,
+    "slug": "no-mans-sky",
+    "title": "No Man's Sky",
+    "platform": "PC",
+    "genres": [
+      "宇宙",
+      "探索",
+      "サバイバル"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "広大な宇宙で探索、開拓、建築、交易を自由に楽しめる。",
+    "bestFor": "探索と自由な遊び方を重視する人",
+    "discoveryScore": 8.6,
+    "affiliateKey": "no-mans-sky",
+    "image": "",
+    "guide": {
+      "beginner": true,
+      "mods": true,
+      "dlc": false,
+      "similar": true
+    },
+    "guideKeywords": [
+      "初心者向け",
+      "序盤攻略",
+      "MOD",
+      "宇宙",
+      "探索",
+      "サバイバル"
+    ]
+  },
+  {
+    "id": 6,
+    "slug": "stardew-valley",
+    "title": "Stardew Valley",
+    "platform": "PC",
+    "genres": [
+      "農業",
+      "生活",
+      "RPG"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる",
+      "低スペック向け"
+    ],
+    "summary": "農業、採掘、交流などを自分のペースで楽しめる生活シミュレーション。",
+    "bestFor": "まったり長く遊びたい人",
+    "discoveryScore": 8.9,
+    "affiliateKey": "stardew-valley",
+    "image": ""
+  },
+  {
+    "id": 7,
+    "slug": "terraria",
+    "title": "Terraria",
+    "platform": "PC",
+    "genres": [
+      "サンドボックス",
+      "探索",
+      "クラフト"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる",
+      "低スペック向け"
+    ],
+    "summary": "探索、建築、戦闘を自由に楽しめる2Dサンドボックス。",
+    "bestFor": "低価格で長く遊びたい人",
+    "discoveryScore": 8.8,
+    "affiliateKey": "terraria",
+    "image": ""
+  },
+  {
+    "id": 8,
+    "slug": "factorio",
+    "title": "Factorio",
+    "platform": "PC",
+    "genres": [
+      "自動化",
+      "建築",
+      "ストラテジー"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる",
+      "低スペック向け"
+    ],
+    "summary": "資源採掘から物流まで巨大な生産ラインを自動化するゲーム。",
+    "bestFor": "設計と最適化が好きな人",
+    "discoveryScore": 8.8,
+    "affiliateKey": "factorio",
+    "image": ""
+  },
+  {
+    "id": 9,
+    "slug": "rimworld",
+    "title": "RimWorld",
+    "platform": "PC",
+    "genres": [
+      "コロニー",
+      "シミュレーション",
+      "ストラテジー"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ",
+    "japanese": true,
+    "flags": [
+      "長く遊べる",
+      "低スペック向け"
+    ],
+    "summary": "入植者たちの生活とトラブルを管理するコロニーシミュレーション。",
+    "bestFor": "物語が生まれる経営ゲームが好きな人",
+    "discoveryScore": 9.7,
+    "affiliateKey": "rimworld",
+    "image": ""
+  },
+  {
+    "id": 10,
+    "slug": "oxygen-not-included",
+    "title": "Oxygen Not Included",
+    "platform": "PC",
+    "genres": [
+      "コロニー",
+      "サバイバル",
+      "自動化"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "地下コロニーで酸素、温度、資源循環を設計するシミュレーション。",
+    "bestFor": "複雑な資源循環を考えるのが好きな人",
+    "discoveryScore": 8.1,
+    "affiliateKey": "oxygen-not-included",
+    "image": ""
+  },
+  {
+    "id": 11,
+    "slug": "dyson-sphere-program",
+    "title": "Dyson Sphere Program",
+    "platform": "PC",
+    "genres": [
+      "自動化",
+      "宇宙",
+      "建築"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "複数の惑星をまたいで巨大な生産網を構築する自動化ゲーム。",
+    "bestFor": "宇宙規模の工場を作りたい人",
+    "discoveryScore": 8.5,
+    "affiliateKey": "dyson-sphere-program",
+    "image": ""
+  },
+  {
+    "id": 12,
+    "slug": "astroneer",
+    "title": "ASTRONEER",
+    "platform": "PC",
+    "genres": [
+      "宇宙",
+      "探索",
+      "クラフト"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "カラフルな惑星を探索し、基地を建てて資源を集める宇宙サンドボックス。",
+    "bestFor": "穏やかな宇宙探索を楽しみたい人",
+    "discoveryScore": 8.5,
+    "affiliateKey": "astroneer",
+    "image": ""
+  },
+  {
+    "id": 13,
+    "slug": "core-keeper",
+    "title": "Core Keeper",
+    "platform": "PC",
+    "genres": [
+      "サンドボックス",
+      "クラフト",
+      "協力"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる",
+      "低スペック向け"
+    ],
+    "summary": "地下世界を掘り進み、建築・農業・戦闘を楽しむサンドボックス。",
+    "bestFor": "Terraria系の探索が好きな人",
+    "discoveryScore": 8.9,
+    "affiliateKey": "core-keeper",
+    "image": ""
+  },
+  {
+    "id": 14,
+    "slug": "valheim",
+    "title": "Valheim",
+    "platform": "PC",
+    "genres": [
+      "サバイバル",
+      "クラフト",
+      "協力"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "北欧風世界で探索、建築、ボス戦を楽しむサバイバル。",
+    "bestFor": "仲間と拠点づくりをしたい人",
+    "discoveryScore": 7.7,
+    "affiliateKey": "valheim",
+    "image": ""
+  },
+  {
+    "id": 15,
+    "slug": "project-zomboid",
+    "title": "Project Zomboid",
+    "platform": "PC",
+    "genres": [
+      "サバイバル",
+      "シミュレーション",
+      "協力"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる",
+      "低スペック向け"
+    ],
+    "summary": "細かな生活管理をしながら生き残るサバイバルシミュレーション。",
+    "bestFor": "高自由度のサバイバルが好きな人",
+    "discoveryScore": 7.9,
+    "affiliateKey": "project-zomboid",
+    "image": ""
+  },
+  {
+    "id": 16,
+    "slug": "dont-starve-together",
+    "title": "Don't Starve Together",
+    "platform": "PC",
+    "genres": [
+      "サバイバル",
+      "クラフト",
+      "協力"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる",
+      "低スペック向け"
+    ],
+    "summary": "独特な世界で探索とクラフトを繰り返す協力サバイバル。",
+    "bestFor": "友達と試行錯誤したい人",
+    "discoveryScore": 8.4,
+    "affiliateKey": "dont-starve-together",
+    "image": ""
+  },
+  {
+    "id": 17,
+    "slug": "subnautica",
+    "title": "Subnautica",
+    "platform": "PC",
+    "genres": [
+      "サバイバル",
+      "探索",
+      "海洋"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "未知の海洋惑星を潜り、装備や基地を整えながら探索する。",
+    "bestFor": "探索のワクワクを重視する人",
+    "discoveryScore": 9.2,
+    "affiliateKey": "subnautica",
+    "image": ""
+  },
+  {
+    "id": 18,
+    "slug": "grounded",
+    "title": "Grounded",
+    "platform": "PC",
+    "genres": [
+      "サバイバル",
+      "クラフト",
+      "協力"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "小さくなった視点で庭を探索する協力サバイバル。",
+    "bestFor": "個性的な世界観で建築したい人",
+    "discoveryScore": 8.9,
+    "affiliateKey": "grounded",
+    "image": ""
+  },
+  {
+    "id": 19,
+    "slug": "palworld",
+    "title": "Palworld",
+    "platform": "PC",
+    "genres": [
+      "サバイバル",
+      "クラフト",
+      "オープンワールド"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "広い世界を探索し、仲間を集めながら拠点を発展させる。",
+    "bestFor": "収集・建築・探索をまとめて楽しみたい人",
+    "discoveryScore": 7.7,
+    "affiliateKey": "palworld",
+    "image": ""
+  },
+  {
+    "id": 20,
+    "slug": "minecraft",
+    "title": "Minecraft",
+    "platform": "PC / Mobile",
+    "genres": [
+      "サンドボックス",
+      "クラフト",
+      "建築"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "建築、探索、冒険を自由に楽しめる代表的なサンドボックス。",
+    "bestFor": "自由度の高いゲームを長く遊びたい人",
+    "discoveryScore": 8.9,
+    "affiliateKey": "minecraft",
+    "image": ""
+  },
+  {
+    "id": 21,
+    "slug": "human-fall-flat",
+    "title": "Human: Fall Flat",
+    "platform": "PC",
+    "genres": [
+      "パズル",
+      "協力",
+      "カジュアル"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "低スペック向け"
+    ],
+    "summary": "ふにゃふにゃした操作で物理パズルを解く協力ゲーム。",
+    "bestFor": "友達と笑いながら遊びたい人",
+    "discoveryScore": 9.4,
+    "affiliateKey": "human-fall-flat",
+    "image": ""
+  },
+  {
+    "id": 22,
+    "slug": "portal-2",
+    "title": "Portal 2",
+    "platform": "PC",
+    "genres": [
+      "パズル",
+      "協力",
+      "SF"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "低スペック向け"
+    ],
+    "summary": "ポータルを使った発想型パズル。専用の協力モードもある。",
+    "bestFor": "頭を使う協力ゲームを探す人",
+    "discoveryScore": 9.1,
+    "affiliateKey": "portal-2",
+    "image": ""
+  },
+  {
+    "id": 23,
+    "slug": "overcooked-2",
+    "title": "Overcooked! 2",
+    "platform": "PC",
+    "genres": [
+      "協力",
+      "料理",
+      "カジュアル"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "協力",
+    "japanese": true,
+    "flags": [
+      "低スペック向け"
+    ],
+    "summary": "役割分担しながら料理を完成させる忙しい協力ゲーム。",
+    "bestFor": "短時間で盛り上がりたい人",
+    "discoveryScore": 8.1,
+    "affiliateKey": "overcooked-2",
+    "image": ""
+  },
+  {
+    "id": 24,
+    "slug": "deep-rock-galactic",
+    "title": "Deep Rock Galactic",
+    "platform": "PC",
+    "genres": [
+      "協力",
+      "FPS",
+      "探索"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "洞窟を探索し、採掘と戦闘をこなす4人協力アクション。",
+    "bestFor": "役割分担のある協力ゲームが好きな人",
+    "discoveryScore": 9.2,
+    "affiliateKey": "deep-rock-galactic",
+    "image": ""
+  },
+  {
+    "id": 25,
+    "slug": "elden-ring",
+    "title": "ELDEN RING",
+    "platform": "PC",
+    "genres": [
+      "アクション",
+      "RPG",
+      "オープンワールド"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "広大な世界を探索しながら強敵へ挑むアクションRPG。",
+    "bestFor": "探索と高難度アクションが好きな人",
+    "discoveryScore": 9.6,
+    "affiliateKey": "elden-ring",
+    "image": ""
+  },
+  {
+    "id": 26,
+    "slug": "baldurs-gate-3",
+    "title": "Baldur's Gate 3",
+    "platform": "PC",
+    "genres": [
+      "RPG",
+      "ターン制",
+      "協力"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "選択と会話、戦術的なターン制戦闘を楽しむ大作RPG。",
+    "bestFor": "物語と選択を重視する人",
+    "discoveryScore": 9.0,
+    "affiliateKey": "baldurs-gate-3",
+    "image": ""
+  },
+  {
+    "id": 27,
+    "slug": "cyberpunk-2077",
+    "title": "Cyberpunk 2077",
+    "platform": "PC",
+    "genres": [
+      "RPG",
+      "オープンワールド",
+      "SF"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "巨大都市を舞台に物語と探索を進めるオープンワールドRPG。",
+    "bestFor": "世界観とストーリーを重視する人",
+    "discoveryScore": 9.5,
+    "affiliateKey": "cyberpunk-2077",
+    "image": ""
+  },
+  {
+    "id": 28,
+    "slug": "the-witcher-3",
+    "title": "The Witcher 3: Wild Hunt",
+    "platform": "PC",
+    "genres": [
+      "RPG",
+      "オープンワールド",
+      "物語"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "広大な世界を旅しながら数多くの依頼と物語を体験するRPG。",
+    "bestFor": "長編RPGをじっくり遊びたい人",
+    "discoveryScore": 7.8,
+    "affiliateKey": "the-witcher-3",
+    "image": ""
+  },
+  {
+    "id": 29,
+    "slug": "hades",
+    "title": "Hades",
+    "platform": "PC",
+    "genres": [
+      "ローグライク",
+      "アクション",
+      "RPG"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ",
+    "japanese": true,
+    "flags": [
+      "低スペック向け",
+      "長く遊べる"
+    ],
+    "summary": "短い挑戦を繰り返しながら物語と能力を広げるアクション。",
+    "bestFor": "テンポの良い反復プレイが好きな人",
+    "discoveryScore": 9.6,
+    "affiliateKey": "hades",
+    "image": ""
+  },
+  {
+    "id": 30,
+    "slug": "slay-the-spire",
+    "title": "Slay the Spire",
+    "platform": "PC",
+    "genres": [
+      "カード",
+      "ローグライク",
+      "ストラテジー"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ",
+    "japanese": true,
+    "flags": [
+      "低スペック向け",
+      "長く遊べる"
+    ],
+    "summary": "カードを組み合わせながら塔を登るデッキ構築型ローグライク。",
+    "bestFor": "考えるゲームを何度も遊びたい人",
+    "discoveryScore": 8.5,
+    "affiliateKey": "slay-the-spire",
+    "image": ""
+  },
+  {
+    "id": 31,
+    "slug": "vampire-survivors",
+    "title": "Vampire Survivors",
+    "platform": "PC",
+    "genres": [
+      "ローグライク",
+      "アクション",
+      "カジュアル"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "低スペック向け",
+      "長く遊べる"
+    ],
+    "summary": "シンプルな操作で大量の敵をさばき、ビルドを強化する。",
+    "bestFor": "短時間で成長を感じたい人",
+    "discoveryScore": 9.4,
+    "affiliateKey": "vampire-survivors",
+    "image": ""
+  },
+  {
+    "id": 32,
+    "slug": "balatro",
+    "title": "Balatro",
+    "platform": "PC",
+    "genres": [
+      "カード",
+      "ローグライク",
+      "パズル"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ",
+    "japanese": true,
+    "flags": [
+      "低スペック向け",
+      "長く遊べる"
+    ],
+    "summary": "ポーカー役をベースに強力な組み合わせを作るカードゲーム。",
+    "bestFor": "コンボを考えるのが好きな人",
+    "discoveryScore": 8.3,
+    "affiliateKey": "balatro",
+    "image": ""
+  },
+  {
+    "id": 33,
+    "slug": "hollow-knight",
+    "title": "Hollow Knight",
+    "platform": "PC",
+    "genres": [
+      "アクション",
+      "探索",
+      "メトロイドヴァニア"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ",
+    "japanese": true,
+    "flags": [
+      "低スペック向け",
+      "長く遊べる"
+    ],
+    "summary": "広大な地下世界を探索する2Dアクションアドベンチャー。",
+    "bestFor": "探索と手応えある戦闘が好きな人",
+    "discoveryScore": 8.4,
+    "affiliateKey": "hollow-knight",
+    "image": ""
+  },
+  {
+    "id": 34,
+    "slug": "dave-the-diver",
+    "title": "DAVE THE DIVER",
+    "platform": "PC",
+    "genres": [
+      "経営",
+      "探索",
+      "カジュアル"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ",
+    "japanese": true,
+    "flags": [
+      "低スペック向け"
+    ],
+    "summary": "昼は海へ潜り、夜は寿司店を運営する複合型アドベンチャー。",
+    "bestFor": "探索と経営を交互に楽しみたい人",
+    "discoveryScore": 9.2,
+    "affiliateKey": "dave-the-diver",
+    "image": ""
+  },
+  {
+    "id": 35,
+    "slug": "civilization-vi",
+    "title": "Sid Meier's Civilization VI",
+    "platform": "PC",
+    "genres": [
+      "ストラテジー",
+      "ターン制",
+      "歴史"
+    ],
+    "priceType": "paid",
+    "priceLabel": "有料",
+    "multiplayer": "ソロ・対戦",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "文明を発展させ、科学・文化・外交などで勝利を目指す。",
+    "bestFor": "じっくり考える戦略ゲームが好きな人",
+    "discoveryScore": 8.8,
+    "affiliateKey": "civilization-vi",
+    "image": ""
+  },
+  {
+    "id": 36,
+    "slug": "counter-strike-2",
+    "title": "Counter-Strike 2",
+    "platform": "PC",
+    "genres": [
+      "FPS",
+      "対戦",
+      "チーム"
+    ],
+    "priceType": "free",
+    "priceLabel": "基本無料",
+    "multiplayer": "対戦",
+    "japanese": true,
+    "flags": [
+      "定番人気"
+    ],
+    "summary": "チームで攻守に分かれて戦う競技性の高いFPS。",
+    "bestFor": "対人FPSを本格的に遊びたい人",
+    "discoveryScore": 9.5,
+    "affiliateKey": "counter-strike-2",
+    "image": ""
+  },
+  {
+    "id": 37,
+    "slug": "dota-2",
+    "title": "Dota 2",
+    "platform": "PC",
+    "genres": [
+      "MOBA",
+      "対戦",
+      "チーム"
+    ],
+    "priceType": "free",
+    "priceLabel": "基本無料",
+    "multiplayer": "対戦",
+    "japanese": true,
+    "flags": [
+      "定番人気",
+      "長く遊べる"
+    ],
+    "summary": "5対5で戦う高い戦略性を持つMOBA。",
+    "bestFor": "奥深いチーム戦を長く学びたい人",
+    "discoveryScore": 8.3,
+    "affiliateKey": "dota-2",
+    "image": ""
+  },
+  {
+    "id": 38,
+    "slug": "pubg",
+    "title": "PUBG: BATTLEGROUNDS",
+    "platform": "PC",
+    "genres": [
+      "バトルロイヤル",
+      "FPS",
+      "対戦"
+    ],
+    "priceType": "free",
+    "priceLabel": "基本無料",
+    "multiplayer": "対戦",
+    "japanese": true,
+    "flags": [
+      "定番人気"
+    ],
+    "summary": "広いマップで最後まで生き残ることを目指すバトルロイヤル。",
+    "bestFor": "緊張感のある対戦が好きな人",
+    "discoveryScore": 8.6,
+    "affiliateKey": "pubg",
+    "image": ""
+  },
+  {
+    "id": 39,
+    "slug": "apex-legends",
+    "title": "Apex Legends",
+    "platform": "PC",
+    "genres": [
+      "バトルロイヤル",
+      "FPS",
+      "チーム"
+    ],
+    "priceType": "free",
+    "priceLabel": "基本無料",
+    "multiplayer": "対戦",
+    "japanese": true,
+    "flags": [
+      "定番人気"
+    ],
+    "summary": "キャラクター能力と高速移動を組み合わせるチームFPS。",
+    "bestFor": "スピード感あるチーム対戦が好きな人",
+    "discoveryScore": 9.3,
+    "affiliateKey": "apex-legends",
+    "image": ""
+  },
+  {
+    "id": 40,
+    "slug": "warframe",
+    "title": "Warframe",
+    "platform": "PC",
+    "genres": [
+      "アクション",
+      "協力",
+      "SF"
+    ],
+    "priceType": "free",
+    "priceLabel": "基本無料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "高速アクションと装備収集を軸に長く遊べる協力ゲーム。",
+    "bestFor": "育成と周回を楽しみたい人",
+    "discoveryScore": 8.0,
+    "affiliateKey": "warframe",
+    "image": ""
+  },
+  {
+    "id": 41,
+    "slug": "genshin",
+    "title": "原神",
+    "platform": "Mobile",
+    "genres": [
+      "RPG",
+      "オープンワールド",
+      "アクション"
+    ],
+    "priceType": "free",
+    "priceLabel": "基本無料",
+    "multiplayer": "ソロ・協力",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "広大な世界を探索するオープンワールド型アクションRPG。",
+    "bestFor": "スマホで大型RPGを遊びたい人",
+    "discoveryScore": 7.7,
+    "affiliateKey": "genshin",
+    "image": ""
+  },
+  {
+    "id": 42,
+    "slug": "star-rail",
+    "title": "崩壊：スターレイル",
+    "platform": "Mobile",
+    "genres": [
+      "RPG",
+      "ターン制",
+      "物語"
+    ],
+    "priceType": "free",
+    "priceLabel": "基本無料",
+    "multiplayer": "ソロ",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "宇宙を舞台に物語とターン制バトルを楽しむRPG。",
+    "bestFor": "ストーリーとキャラクターを重視する人",
+    "discoveryScore": 7.8,
+    "affiliateKey": "star-rail",
+    "image": ""
+  },
+  {
+    "id": 43,
+    "slug": "zenless-zone-zero",
+    "title": "ゼンレスゾーンゼロ",
+    "platform": "Mobile",
+    "genres": [
+      "アクション",
+      "RPG",
+      "物語"
+    ],
+    "priceType": "free",
+    "priceLabel": "基本無料",
+    "multiplayer": "ソロ",
+    "japanese": true,
+    "flags": [
+      "長く遊べる"
+    ],
+    "summary": "都市を舞台にテンポの良いアクションを楽しむRPG。",
+    "bestFor": "アクション重視のスマホRPGが好きな人",
+    "discoveryScore": 9.6,
+    "affiliateKey": "zenless-zone-zero",
+    "image": ""
+  },
+  {
+    "id": 44,
+    "slug": "pokemon-unite",
+    "title": "Pokémon UNITE",
+    "platform": "Mobile",
+    "genres": [
+      "MOBA",
+      "対戦",
+      "チーム"
+    ],
+    "priceType": "free",
+    "priceLabel": "基本無料",
+    "multiplayer": "対戦",
+    "japanese": true,
+    "flags": [
+      "定番人気"
+    ],
+    "summary": "5対5でスコアを競うチーム戦アクション。",
+    "bestFor": "スマホでチーム対戦を楽しみたい人",
+    "discoveryScore": 9.0,
+    "affiliateKey": "pokemon-unite",
+    "image": ""
+  },
+  {
+    "id": 45,
+    "slug": "brawl-stars",
+    "title": "Brawl Stars",
+    "platform": "Mobile",
+    "genres": [
+      "アクション",
+      "対戦",
+      "カジュアル"
+    ],
+    "priceType": "free",
+    "priceLabel": "基本無料",
+    "multiplayer": "対戦",
+    "japanese": true,
+    "flags": [
+      "定番人気"
+    ],
+    "summary": "短時間で遊べるテンポの速い対戦アクション。",
+    "bestFor": "短い対戦を繰り返し楽しみたい人",
+    "discoveryScore": 9.0,
+    "affiliateKey": "brawl-stars",
+    "image": ""
+  }
+]
